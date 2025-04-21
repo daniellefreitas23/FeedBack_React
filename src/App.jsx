@@ -52,7 +52,6 @@ export function App() {
           <h1 className="text-2xl font-bold mb-2.5 text-center">Thank you!</h1>
 
           <p className="text-light-grey text-sm leading-1 text-center">We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to get in touch!</p>
-
         </div>
       )
   )
